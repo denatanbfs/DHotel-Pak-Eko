@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico|Roboto+Condensed");
+body {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+nav ul a,
+p {
+  line-height: 2rem;
+}
+
+.parallax-container {
+  height: 400px !important;
+  line-height: 0;
+  height: auto;
+  color: rgba(255, 255, 255, 0.9);
+}
+.parallax-container .section {
+  width: 100%;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+.ku a:hover {
+  padding: 3px 5px;
+  background-color: rgb(212, 207, 200);
+  box-sizing: border-box;
+}
