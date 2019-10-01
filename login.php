@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Login - DCake</title>
+    <title>This is about denatan love arif</title>
     <link rel="shortcut icon" type="image/png" href="img/icon2.png" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -63,6 +63,7 @@
 
                                     <div class="row center">
                                         <p class="blue-grey-text lighten-2">Belum Punya Akun? <a href="register.php" class="red-text darken-3">Register</a></p>
+                                        <h1>Dewa Coding Denatanbfs</h1>
                                     </div>
                                 </form>
                             </div>
