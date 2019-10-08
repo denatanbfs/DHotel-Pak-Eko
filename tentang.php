@@ -6,7 +6,7 @@ session_start();
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Tentang Kami - DCake</title>
+    <title>D-CAKE APP</title>
     <link rel="shortcut icon" type="image/png" href="img/icon2.png" />
 
     <!-- CSS -->
