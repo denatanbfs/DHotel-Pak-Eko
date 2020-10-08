@@ -5,7 +5,7 @@ session_start();
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Beranda - DCake</title>
+    <title>Beranda - DCake Shop</title>
     <link rel="shortcut icon" type="image/png" href="img/icon2.png" />
 
     <!-- CSS -->
